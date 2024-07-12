@@ -1,0 +1,148 @@
+@media (max-width: 875px) {
+    .logo , .navbut{
+        scale: .75;
+    }
+
+    .forpad{
+        width: 100%;
+    }
+
+    .contforone{
+        margin: 20px;
+    }
+
+    h1{
+        font-size: 2rem;
+    }
+
+    .parag{
+        width: 100%;
+    }
+
+    .getfree{
+        width: 55%;
+        padding: 0 10px;
+    }
+
+    .secondpage img {
+        width: 90%;
+    }
+
+    .forth2 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .forth2 div {
+        order: 2;
+        width: 100%;
+
+    }
+
+    .forth2 img {
+        width: 70%;
+        margin-bottom: 50px;
+    }
+
+    .forth2 h1 {
+        font-size: 3rem;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .forth2 p {
+        width: 100%;
+        font-size: 17px;
+        text-align: center;
+        
+    }
+
+    .fifth {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .fifth img {
+        width: 70%;
+        margin-bottom: 50px;
+    }
+
+    .fifth p {
+        width: 100%;
+        font-size: 17px;
+        text-align: center;
+    }
+
+    .fifth h1 {
+        font-size: 3rem;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .fifth div {
+        order: 2;
+        width: 100%;
+    }
+
+
+    .sixth2 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .sixth2 div {
+        order: 2;
+        width: 100%;
+
+    }
+
+    .sixth2 img {
+        width: 70%;
+        margin-bottom: 50px;
+    }
+
+    .sixth2 h1 {
+        font-size: 3rem;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .sixth2 p {
+        width: 100%;
+        font-size: 17px;
+        text-align: center;
+        
+    }
+
+    .seventh button {
+        width: 55%;
+        padding: 0 10px;
+        scale: 80%;
+    }
+
+    .seventh h1 {
+        text-align: center;
+        width: 90%;
+    }
+
+    .finfin {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .fin2 {
+        order: -1;
+        
+    }
+
+    .fin1 , .fin2 {
+        scale: 90%;
+    }
+
+    .final p {
+        width: 100% !important;
+        text-align: center;
+    }
+
+}
